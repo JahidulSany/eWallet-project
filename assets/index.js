@@ -1,4 +1,4 @@
-// I wish you good luck and happy coding 🥰🤠🥳🥳💯💯
+// Happy coding 🥰🤠🥳🥳💯💯
 
 document.querySelector('#ewallet-form').addEventListener('submit' , function (e){
     e.preventDefault();
